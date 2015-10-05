@@ -1,0 +1,14 @@
+{
+    "name": "delocker/yii2-animate.css",
+    "description": "AssetBundle for http://daneden.github.io/animate.css/",
+    "authors": [
+        {
+            "name": "Egor Pinkevich",
+            "email": "egor.pinkevich@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "yiisoft/yii2": ">=2.0.4"
+    }
+}
