@@ -6,13 +6,13 @@ AssetBundle for http://daneden.github.io/animate.css/
 ####Composer
 
 ```
-$ php composer.phar require kartik-v/yii2-sortable "dev-master"
+$ php composer.phar require delocker/yii2-animate "dev-master"
 ```
 
 or add
 
 ```
-"kartik-v/yii2-sortable": "dev-master"
+"delocker/yii2-animate": "dev-master"
 ```
 
 to the ```require``` section of your `composer.json` file.
