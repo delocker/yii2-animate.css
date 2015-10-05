@@ -6,13 +6,13 @@ AssetBundle for http://daneden.github.io/animate.css/
 ####Composer
 
 ```
-$ php composer.phar require delocker/yii2-animate "dev-master"
+$ php composer.phar require delocker/yii2-animate.css "dev-master"
 ```
 
 or add
 
 ```
-"delocker/yii2-animate": "dev-master"
+"delocker/yii2-animate.css": "dev-master"
 ```
 
 to the ```require``` section of your `composer.json` file.
