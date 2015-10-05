@@ -1,14 +1,33 @@
 {
     "name": "delocker/yii2-animate.css",
     "description": "AssetBundle for http://daneden.github.io/animate.css/",
+    "keywords": [
+        "yii2",
+        "animate",
+        "css",
+        "asset",
+        "bundle",
+        "delocker"
+    ],
     "authors": [
         {
             "name": "Egor Pinkevich",
-            "email": "egor.pinkevich@gmail.com"
+            "email": "egor.pinkevich@gmail.com",
+            "homepage": "http://v2.by/"
         }
     ],
+    "support": {
+        "issues": "https://github.com/delocker/yii2-animate.css/issues/new",
+        "source": "https://github.com/delocker/yii2-animate.css"
+    },
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
     "minimum-stability": "stable",
     "require": {
-        "yiisoft/yii2": ">=2.0.4"
+        "php": ">=5.4.0",
+        "yiisoft/yii2": ">=2.0.*"
+    },
+    "autoload": {
+        "psr-4": { "delocker\\animate\\": "" }
     }
 }
